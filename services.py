@@ -7,6 +7,8 @@ class Mutate_Type(Enum):
     CASE_ONE = 1
     CASE_TWO = 2
     CASE_TREE = 3
+    CASE_FOUR = 4
+
 
 
 class XoverType(Enum):
